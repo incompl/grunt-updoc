@@ -1,4 +1,4 @@
-# Up[doc] Task for Grunt
+# Updoc Task for Grunt
 
 * What's grunt? http://gruntjs.com/
 * What's updoc? Not much: http://incompl.github.com/updoc/
